@@ -1,4 +1,4 @@
 ---
 app_port: 5000
-image_ref: "ghcr.io/Iveka/capstone-cicd/capstone-flask:latest"
+image_ref: "ghcr.io/iveka/capstone-cicd/capstone-flask:latest"
 ghcr_private: false
