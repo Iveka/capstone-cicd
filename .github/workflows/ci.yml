@@ -8,7 +8,7 @@ on:
   workflow_dispatch: {}
 
 env:
-  IMAGE: ghcr.io/${{ github.repository_owner }}/capstone-flask
+  IMAGE: ghcr.io/iveka/capstone-cicd/capstone-flask
   PYTHON_VERSION: '3.11'
 
 jobs:
